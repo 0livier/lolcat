@@ -1,0 +1,55 @@
+:root {
+  font-family: "Roboto", nter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.85);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#lulz {
+  background-color: #0000004f;
+  padding: 10px;
+  margin: 10px 0 0 10px;
+}
+
+a {
+  font-weight: 500;
+  color: #b5d9ff;
+  text-decoration: underline;
+}
+a:hover {
+  color: #f3f3ff;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: top;
+  text-align: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.0;
+}
+
+#background {
+  height: 100vh; /* Makes the div full height of the viewport */
+  width: 100vw; /* Makes the div full width of the viewport */
+  background-size: cover; /* Ensures the background image covers the div */
+  background-position: center; /* Centers the background image */
+  position: absolute; /* Keeps it in place, covering the whole screen */
+  top: 0;
+  left: 0;
+  z-index: -1; /* Puts the background behind the other content */
+}
