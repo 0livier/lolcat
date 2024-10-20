@@ -7,6 +7,8 @@ const helloCurious = document.getElementById("date");
 const subtitle = document.getElementById("subtitle");
 
 let today = "";
+let touchStartX = 0;
+let touchEndX = 0;
 
 function getDateFromURL() {
     const dateParam = window.location.search.slice(1);
@@ -54,6 +56,28 @@ function checkMidnightUpdate() {
         updateContent();
     }
 }
+
+function handleSwipe() {
+    const swipeThreshold = 50; // Minimum distance for a swipe
+    const swipeDistance = touchEndX - touchStartX;
+    
+    if (Math.abs(swipeDistance) > swipeThreshold) {
+        if (swipeDistance > 0) {
+            changeDate(1); // Swipe right
+        } else {
+            changeDate(-1); // Swipe left
+        }
+    }
+}
+
+document.addEventListener("touchstart", (event) => {
+    touchStartX = event.changedTouches[0].screenX;
+});
+
+document.addEventListener("touchend", (event) => {
+    touchEndX = event.changedTouches[0].screenX;
+    handleSwipe();
+});
 
 document.addEventListener("keydown", (event) => {
     if (event.key === "ArrowLeft") {
