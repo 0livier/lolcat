@@ -51,7 +51,7 @@ def update_prompt(theme):
 def generate_prompt(client, theme):
     updated_prompt = update_prompt(theme)
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-4o",
         messages=[
             {
                 "role": "system",
