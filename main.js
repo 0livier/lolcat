@@ -27,7 +27,7 @@ function updateContent() {
 
         title.innerHTML = `<a href="https://www.google.com/search?q=${encodeURIComponent(content[0])}" target="_blank" rel="noopener noreferrer">${content[0]} ↗️</a>`;
         subtitle.textContent = content[1];
-        helloCurious.textContent = today;
+        helloCurious.textContent = "🗓️ " + today;
         background.style.backgroundImage = `url(/lulz/${date}.webp)`;
     }
 }
