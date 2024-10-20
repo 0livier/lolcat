@@ -6,8 +6,6 @@
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
 
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.85);
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -18,14 +16,15 @@
   margin: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 400;
-  color: #ffffff80;
-  margin-bottom: 10px;
+  color: #ffffff65;
+  margin-bottom: 5px;
   font-size: 0.8rem;
 }
 
 #subtitle {
   font-weight: 800;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.85);
 }
 
   
@@ -37,12 +36,17 @@
 
 h1 {
   margin: 0;
+  
 }
 
 a {
   font-weight: 500;
-  color: #b5d9ff;
+  color: #dcebfa;
   text-decoration: underline;
+  color: transparent;
+  background: linear-gradient(180deg, #ffffff, #efefef, #bababadf);
+  background-clip: text;
+  -webkit-background-clip: text;
 }
 a:hover {
   color: #f3f3ff;
