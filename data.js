@@ -85,7 +85,7 @@ const lolcats = {
   ],
   "2024-10-22": [
     "International Stuttering Awareness Day",
-    "I... I can haz meow? Wait, wot I say?!"
+    "I can haz st-st-stories toooooo!"
   ],
   "2024-10-23": [
     "Mole Day",
@@ -181,7 +181,7 @@ const lolcats = {
   ],
   "2024-11-15": [
     "National Clean Out Your Refrigerator Day",
-    "Whut is dis? I can haz snax or am I gonna hurl?"
+    "I fine. Duh not bother"
   ],
   "2024-11-16": [
     "International Day for Tolerance",
@@ -193,15 +193,15 @@ const lolcats = {
   ],
   "2024-11-18": [
     "Mickey Mouse's Birthday",
-    "I can haz birthday cake? Dis is mousedazzling! \ud83c\udf89\ud83d\udc3e"
+    "Wut? A mouze????"
   ],
   "2024-11-19": [
     "International Men's Day",
-    "I be da boss now, can I haz promotion?"
+    "Fine, the little staff has the right to a little comfort"
   ],
   "2024-11-20": [
     "Universal Children's Day",
-    "I can haz no more cake? Dis pawty iz fur mew!"
+    "I kid, I kid, give more cake"
   ],
   "2024-11-21": [
     "World Television Day",
@@ -221,7 +221,7 @@ const lolcats = {
   ],
   "2024-11-25": [
     "International Day for the Elimination of Violence against Women",
-    "I can haz powerz! Stop da violence, kittehz unite!"
+    "Stop da violence, kittehz unite!"
   ],
   "2024-11-26": [
     "National Cake Day",
@@ -245,7 +245,7 @@ const lolcats = {
   ],
   "2024-12-01": [
     "World AIDS Day",
-    "I can haz awareness? \ud83d\udc3e\u2764\ufe0f"
+    "I can haz condomz? \ud83d\udc3e\u2764\ufe0f"
   ],
   "2024-12-02": [
     "National Mutt Day",
@@ -273,7 +273,7 @@ const lolcats = {
   ],
   "2024-12-08": [
     "Pretend To Be A Time Traveler Day",
-    "I can haz time machine? I goin' to da past for treats!"
+    "I can haz Dr. Who time machine? I goin' to da past for treats!"
   ],
   "2024-12-09": [
     "International Anti-Corruption Day",
@@ -281,7 +281,7 @@ const lolcats = {
   ],
   "2024-12-10": [
     "Human Rights Day",
-    "I can haz my rights, pls? Dis is NOT how it should be!"
+    "Humanz and Catz!"
   ],
   "2024-12-11": [
     "International Mountain Day",
@@ -313,7 +313,7 @@ const lolcats = {
   ],
   "2024-12-18": [
     "International Migrants Day",
-    "Wut is dis place? I can haz new adventure?"
+    "Hupfully we findd shelter"
   ],
   "2024-12-19": [
     "National Hard Candy Day",
@@ -366,10 +366,6 @@ const lolcats = {
   "2024-12-31": [
     "New Year's Eve",
     "Iz gonna pop dat noisemaker! Letz party like it's 2023!"
-  ],
-  "Date": [
-    "Theme",
-    "Caption"
   ],
   "2025-01-01": [
     "New Year's Day",
@@ -489,7 +485,7 @@ const lolcats = {
   ],
   "2025-01-30": [
     "National Croissant Day",
-    "I can haz croissant? Dis is a purrfekt breakfast!"
+    "Bonjour"
   ],
   "2025-01-31": [
     "Inspire Your Heart with Art Day",
@@ -577,7 +573,7 @@ const lolcats = {
   ],
   "2025-02-21": [
     "International Mother Language Day",
-    "Whut language dis? I can haz all da wordz?"
+    "Repat afterz me. I can haz cheezburgerz? "
   ],
   "2025-02-22": [
     "George Washington's Birthday",
@@ -729,7 +725,7 @@ const lolcats = {
   ],
   "2025-03-31": [
     "International Transgender Day of Visibility",
-    "We see you ♥︎"
+    "\u201cI can haz visibility, pwease? \ud83c\udf89\ud83c\udf08\u201d"
   ],
   "2025-04-01": [
     "April Fools' Day",
