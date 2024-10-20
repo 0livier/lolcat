@@ -17,7 +17,10 @@
 #lulz {
   background-color: #0000004f;
   padding: 10px;
-  margin: 10px 0 0 10px;
+}
+
+h1 {
+  margin: 0;
 }
 
 a {
@@ -27,6 +30,13 @@ a {
 }
 a:hover {
   color: #f3f3ff;
+}
+h1:hover {
+  text-shadow: 
+      0 1px 5px rgba(255, 255, 255, 0.5),
+      0 5px 15px rgba(255, 255, 255, 0.3),
+      0 10px 30px rgba(255, 255, 255, 0.2),
+      0 20px 50px rgba(255, 255, 255, 0.1);
 }
 
 body {
