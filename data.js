@@ -5,15 +5,15 @@ const lolcats = {
   ],
   "2024-10-02": [
     "World Farm Animals Day",
-    "\"I no like 'World Farm Animals Day'... wherez my catnip?\""
+    "I no like 'World Farm Animals Day'... wherez my catnip?"
   ],
   "2024-10-03": [
     "National Techies Day",
-    "\"I can haz upgradez? Makin' codez like a pro!\""
+    "I can haz upgradez? Makin' codez like a pro!"
   ],
   "2024-10-04": [
     "World Animal Day",
-    "\"I can haz world peace fur all da fur babies?! \ud83c\udf0e\u2764\ufe0f\""
+    "I can haz world peace fur all da fur babies?! \ud83c\udf0e\u2764\ufe0f"
   ],
   "2024-10-05": [
     "World Teachers' Day",
@@ -29,15 +29,15 @@ const lolcats = {
   ],
   "2024-10-08": [
     "World Octopus Day",
-    "\"I can haz octopus frendz? Dis one no bite, rite?\""
+    "I can haz octopus frendz? Dis one no bite, rite?"
   ],
   "2024-10-09": [
     "World Post Day",
-    "\"Iz mail day, but I no can haz stamp!\""
+    "Iz mail day, but I no can haz stamp!"
   ],
   "2024-10-10": [
     "World Mental Health Day",
-    "\"Dis iz how I feels on World Mental Health Day. Omg, brainz are for squishin'!\""
+    "Dis iz how I feels on World Mental Health Day. Omg, brainz are for squishin'!"
   ],
   "2024-10-11": [
     "International Day of the Girl Child",
@@ -45,7 +45,7 @@ const lolcats = {
   ],
   "2024-10-12": [
     "National Farmers Day",
-    "\"Is dis farm fresh? I can haz veggiebowl plz?\""
+    "Is dis farm fresh? I can haz veggiebowl plz?"
   ],
   "2024-10-13": [
     "National Train Your Brain Day",
@@ -57,15 +57,15 @@ const lolcats = {
   ],
   "2024-10-15": [
     "Global Handwashing Day",
-    "\"I washin' mai paws, can I haz cookie now?\""
+    "I washin' mai paws, can I haz cookie now?"
   ],
   "2024-10-16": [
     "World Food Day",
-    "\"I can haz world food? Plz can I taste?! \ud83c\udf55\ud83d\ude3b\""
+    "I can haz world food? Plz can I taste?! \ud83c\udf55\ud83d\ude3b"
   ],
   "2024-10-17": [
     "International Day for the Eradication of Poverty",
-    "\"Wuts dis? I can haz no haz? I need moar meow-nay!\""
+    "Wuts dis? I can haz no haz? I need moar meow-nay!"
   ],
   "2024-10-18": [
     "National Chocolate Cupcake Day",
@@ -77,15 +77,15 @@ const lolcats = {
   ],
   "2024-10-20": [
     "International Sloth Day",
-    "\"I can haz nap fur evah! Slothin' like a pro!\""
+    "I can haz nap fur evah! Slothin' like a pro!"
   ],
   "2024-10-21": [
     "Reptile Awareness Day",
-    "\"Wut iz my new scaly frend? Can I haz gecko snack?\""
+    "Wut iz my new scaly frend? Can I haz gecko snack?"
   ],
   "2024-10-22": [
     "International Stuttering Awareness Day",
-    "\"I... I can haz meow? Wait, wot I say?!\""
+    "I... I can haz meow? Wait, wot I say?!"
   ],
   "2024-10-23": [
     "Mole Day",
@@ -93,19 +93,19 @@ const lolcats = {
   ],
   "2024-10-24": [
     "United Nations Day",
-    "\"I can haz world peez plz?\""
+    "I can haz world peez plz?"
   ],
   "2024-10-25": [
     "World Pasta Day",
-    "\"I can haz pastah? Nom nomz for World Pasta Day!\""
+    "I can haz pastah? Nom nomz for World Pasta Day!"
   ],
   "2024-10-26": [
     "National Pumpkin Day",
-    "\"I can haz pumpkin spice latte?!\""
+    "I can haz pumpkin spice latte?!"
   ],
   "2024-10-27": [
     "World Day for Audiovisual Heritage",
-    "\"Whut iz dis magic box? I can haz moviez?!\""
+    "Whut iz dis magic box? I can haz moviez?!"
   ],
   "2024-10-28": [
     "National Chocolate Day",
@@ -113,7 +113,7 @@ const lolcats = {
   ],
   "2024-10-29": [
     "World Stroke Day",
-    "\"I can haz stroke awareness? Not da kinda paw-tition I wanted!\""
+    "I can haz stroke awareness? Not da kinda paw-tition I wanted!"
   ],
   "2024-10-30": [
     "National Candy Corn Day",
@@ -125,11 +125,11 @@ const lolcats = {
   ],
   "2024-11-01": [
     "All Saints' Day",
-    "\"I see dead mices, but where da treats at?!\""
+    "I see dead mices, but where da treats at?!"
   ],
   "2024-11-02": [
     "All Souls' Day",
-    "\"Wut dis? Is it ghosties or snackies?\""
+    "Wut dis? Is it ghosties or snackies?"
   ],
   "2024-11-03": [
     "Sandwich Day",
@@ -141,11 +141,11 @@ const lolcats = {
   ],
   "2024-11-05": [
     "Guy Fawkes Night",
-    "\"Mewz! Remeber, remember da fawkes of November!\""
+    "Mewz! Remeber, remember da fawkes of November!"
   ],
   "2024-11-06": [
     "National Nachos Day",
-    "\"I can haz nacho? Dis not what I meant by 'cheesy moment'!\""
+    "I can haz nacho? Dis not what I meant by 'cheesy moment'!"
   ],
   "2024-11-07": [
     "National Bittersweet Chocolate with Almonds Day",
@@ -153,7 +153,7 @@ const lolcats = {
   ],
   "2024-11-08": [
     "National Cappuccino Day",
-    "\"I can haz cappa-chino? Dis froth is minez!\""
+    "I can haz cappa-chino? Dis froth is minez!"
   ],
   "2024-11-09": [
     "World Freedom Day",
@@ -161,11 +161,11 @@ const lolcats = {
   ],
   "2024-11-10": [
     "World Science Day for Peace and Development",
-    "\"I can haz world peece? Science is purr-fectly pawsome!\""
+    "I can haz world peece? Science is purr-fectly pawsome!"
   ],
   "2024-11-11": [
     "Veterans Day (USA)",
-    "\"I served, now I can haz treats! #VetpurrsDay\""
+    "I served, now I can haz treats! #VetpurrsDay"
   ],
   "2024-11-12": [
     "National Happy Hour Day",
@@ -177,7 +177,7 @@ const lolcats = {
   ],
   "2024-11-14": [
     "World Diabetes Day",
-    "\"Wut dis? I thought I can haz treatz not beep boop!\""
+    "Wut dis? I thought I can haz treatz not beep boop!"
   ],
   "2024-11-15": [
     "National Clean Out Your Refrigerator Day",
@@ -185,7 +185,7 @@ const lolcats = {
   ],
   "2024-11-16": [
     "International Day for Tolerance",
-    "\"I can haz all da colors, plz? Tolerance is purrfect!\""
+    "I can haz all da colors, plz? Tolerance is purrfect!"
   ],
   "2024-11-17": [
     "International Students' Day",
@@ -197,15 +197,15 @@ const lolcats = {
   ],
   "2024-11-19": [
     "International Men's Day",
-    "\"I be da boss now, can I haz promotion?\""
+    "I be da boss now, can I haz promotion?"
   ],
   "2024-11-20": [
     "Universal Children's Day",
-    "\"I can haz no more cake? Dis pawty iz fur mew!\""
+    "I can haz no more cake? Dis pawty iz fur mew!"
   ],
   "2024-11-21": [
     "World Television Day",
-    "\"Is dis da new hoomin drama? I can haz remote control?!?\""
+    "Is dis da new hoomin drama? I can haz remote control?!?"
   ],
   "2024-11-22": [
     "Go For a Ride Day",
@@ -217,11 +217,11 @@ const lolcats = {
   ],
   "2024-11-24": [
     "National Sardines Day",
-    "\"I can haz all da fishy noms?!\""
+    "I can haz all da fishy noms?!"
   ],
   "2024-11-25": [
     "International Day for the Elimination of Violence against Women",
-    "\"I can haz powerz! Stop da violence, kittehz unite!\""
+    "I can haz powerz! Stop da violence, kittehz unite!"
   ],
   "2024-11-26": [
     "National Cake Day",
@@ -245,11 +245,11 @@ const lolcats = {
   ],
   "2024-12-01": [
     "World AIDS Day",
-    "\"I can haz awareness? \ud83d\udc3e\u2764\ufe0f\""
+    "I can haz awareness? \ud83d\udc3e\u2764\ufe0f"
   ],
   "2024-12-02": [
     "National Mutt Day",
-    "\"Dis iz my fire safety drill, but I think I haz a cat-astrophe!\""
+    "Dis iz my fire safety drill, but I think I haz a cat-astrophe!"
   ],
   "2024-12-03": [
     "International Day of Persons with Disabilities",
@@ -257,11 +257,11 @@ const lolcats = {
   ],
   "2024-12-04": [
     "National Cookie Day",
-    "\"I can haz cookie? Plz, no sharez!\""
+    "I can haz cookie? Plz, no sharez!"
   ],
   "2024-12-05": [
     "World Soil Day",
-    "\"I can haz earth? Buryin' my secrets!\""
+    "I can haz earth? Buryin' my secrets!"
   ],
   "2024-12-06": [
     "St. Nicholas Day",
@@ -277,7 +277,7 @@ const lolcats = {
   ],
   "2024-12-09": [
     "International Anti-Corruption Day",
-    "\"I can haz transparency plz? Nao wif no sneaky sneaks!\""
+    "I can haz transparency plz? Nao wif no sneaky sneaks!"
   ],
   "2024-12-10": [
     "Human Rights Day",
@@ -309,7 +309,7 @@ const lolcats = {
   ],
   "2024-12-17": [
     "Wright Brothers Day",
-    "\"I can haz flyin' lessons, plz?\""
+    "I can haz flyin' lessons, plz?"
   ],
   "2024-12-18": [
     "International Migrants Day",
@@ -317,7 +317,7 @@ const lolcats = {
   ],
   "2024-12-19": [
     "National Hard Candy Day",
-    "\"Icanhazcandiez? Dis is bestest day evah!\""
+    "Icanhazcandiez? Dis is bestest day evah!"
   ],
   "2024-12-20": [
     "International Human Solidarity Day",
@@ -325,15 +325,15 @@ const lolcats = {
   ],
   "2024-12-21": [
     "First Day of Winter",
-    "\"I can haz snow?! But why it so cold?! Brrr!\""
+    "I can haz snow?! But why it so cold?! Brrr!"
   ],
   "2024-12-22": [
     "National Cookie Exchange Day",
-    "\"I can haz cookiez? Plz, I be good kitty!\""
+    "I can haz cookiez? Plz, I be good kitty!"
   ],
   "2024-12-23": [
     "Festivus",
-    "\"I no getez dis thing called 'Festivus.' Can I hav a feast now, plz?\""
+    "I no getez dis thing called 'Festivus.' Can I hav a feast now, plz?"
   ],
   "2024-12-24": [
     "Christmas Eve",
@@ -353,11 +353,11 @@ const lolcats = {
   ],
   "2024-12-28": [
     "National Card Playing Day",
-    "\"I can haz full house? Dis game iz minez!\""
+    "I can haz full house? Dis game iz minez!"
   ],
   "2024-12-29": [
     "Tick Tock Day",
-    "\"Tick tock, wheres da pawty?!\""
+    "Tick tock, wheres da pawty?!"
   ],
   "2024-12-30": [
     "Bacon Day",
@@ -365,7 +365,7 @@ const lolcats = {
   ],
   "2024-12-31": [
     "New Year's Eve",
-    "\"Iz gonna pop dat noisemaker! Letz party like it's 2023!\""
+    "Iz gonna pop dat noisemaker! Letz party like it's 2023!"
   ],
   "Date": [
     "Theme",
@@ -381,11 +381,11 @@ const lolcats = {
   ],
   "2025-01-03": [
     "Festival of Sleep Day",
-    "\"Cuddlz over loudz! Zzzz is mi festivalz!\""
+    "Cuddlz over loudz! Zzzz is mi festivalz!"
   ],
   "2025-01-04": [
     "World Braille Day",
-    "\"Dis no typin' pawzz, dis is a certifurr cat paw-sition!\""
+    "Dis no typin' pawzz, dis is a certifurr cat paw-sition!"
   ],
   "2025-01-05": [
     "National Bird Day",
@@ -397,15 +397,15 @@ const lolcats = {
   ],
   "2025-01-07": [
     "Orthodox Christmas Day",
-    "\"I can haz Holy Catnip Day?!\""
+    "I can haz Holy Catnip Day?!"
   ],
   "2025-01-08": [
     "Bubble Bath Day",
-    "\"I can haz bubble bath? Dis iz da life!\""
+    "I can haz bubble bath? Dis iz da life!"
   ],
   "2025-01-09": [
     "National Static Electricity Day",
-    "\"I iz a live wire! Can I haz a charge?\""
+    "I iz a live wire! Can I haz a charge?"
   ],
   "2025-01-10": [
     "Houseplant Appreciation Day",
@@ -417,7 +417,7 @@ const lolcats = {
   ],
   "2025-01-12": [
     "National Pharmacist Day",
-    "\"Is it time for meowdicine? I can haz purrscripshun!\""
+    "Is it time for meowdicine? I can haz purrscripshun!"
   ],
   "2025-01-13": [
     "Make Your Dream Come True Day",
@@ -429,7 +429,7 @@ const lolcats = {
   ],
   "2025-01-15": [
     "National Hat Day",
-    "\"Wut dis? I kin hat-day better dan U!\""
+    "Wut dis? I kin hat-day better dan U!"
   ],
   "2025-01-16": [
     "International Hot and Spicy Food Day",
@@ -449,7 +449,7 @@ const lolcats = {
   ],
   "2025-01-20": [
     "Martin Luther King Jr. Day",
-    "\"I has a dream: more treats fur all kittehs!\""
+    "I has a dream: more treats fur all kittehs!"
   ],
   "2025-01-21": [
     "National Hugging Day",
@@ -473,7 +473,7 @@ const lolcats = {
   ],
   "2025-01-26": [
     "Australia Day",
-    "\"I kan haz snag on da barbie?!\""
+    "I kan haz snag on da barbie?!"
   ],
   "2025-01-27": [
     "Chocolate Cake Day",
@@ -485,7 +485,7 @@ const lolcats = {
   ],
   "2025-01-29": [
     "Chinese New Year",
-    "\"I can haz good luck noodles?!\""
+    "I can haz good luck noodles?!"
   ],
   "2025-01-30": [
     "National Croissant Day",
@@ -497,11 +497,11 @@ const lolcats = {
   ],
   "2025-02-01": [
     "National Freedom Day",
-    "\"I can haz freedom n' snackz, rite???\""
+    "I can haz freedom n' snackz, rite???"
   ],
   "2025-02-02": [
     "Groundhog Day",
-    "\"Dis time, I can haz no more winterz, plz?!\""
+    "Dis time, I can haz no more winterz, plz?!"
   ],
   "2025-02-03": [
     "National Carrot Cake Day",
@@ -513,7 +513,7 @@ const lolcats = {
   ],
   "2025-02-05": [
     "World Nutella Day",
-    "\"I can haz choccy spread fur efurr?!\""
+    "I can haz choccy spread fur efurr?!"
   ],
   "2025-02-06": [
     "Waitangi Day",
@@ -525,7 +525,7 @@ const lolcats = {
   ],
   "2025-02-08": [
     "National Boy Scouts Day",
-    "\"I can haz merit badge fur balancing?!\""
+    "I can haz merit badge fur balancing?!"
   ],
   "2025-02-09": [
     "National Pizza Day",
@@ -533,27 +533,27 @@ const lolcats = {
   ],
   "2025-02-10": [
     "National Umbrella Day",
-    "\"Wut dis? I can haz sunshine 'n rainbow instead?!\""
+    "Wut dis? I can haz sunshine 'n rainbow instead?!"
   ],
   "2025-02-11": [
     "International Day of Women and Girls in Science",
-    "\"I can haz science experiment? Gonna discover new cuddle element!\""
+    "I can haz science experiment? Gonna discover new cuddle element!"
   ],
   "2025-02-12": [
     "Abraham Lincoln's Birthday",
-    "\"I am da 16th prez, can I haz bday cake?\""
+    "I am da 16th prez, can I haz bday cake?"
   ],
   "2025-02-13": [
     "World Radio Day",
-    "\"I can haz world radio?! Turn it up, hoomans!\""
+    "I can haz world radio?! Turn it up, hoomans!"
   ],
   "2025-02-14": [
     "Valentine's Day",
-    "\"I can haz choccy? Or iz it fur me?!\""
+    "I can haz choccy? Or iz it fur me?!"
   ],
   "2025-02-15": [
     "Susan B. Anthony Day",
-    "\"I can haz vote? Furst furr b'fore I nap!\""
+    "I can haz vote? Furst furr b'fore I nap!"
   ],
   "2025-02-16": [
     "Do a Grouch a Favor Day",
@@ -561,11 +561,11 @@ const lolcats = {
   ],
   "2025-02-17": [
     "Random Acts of Kindness Day",
-    "\"Dis furriendship wil make u smyle! Can I haz besties fur evar?\""
+    "Dis furriendship wil make u smyle! Can I haz besties fur evar?"
   ],
   "2025-02-18": [
     "National Battery Day",
-    "\"I can haz powahz fur my napz?!\""
+    "I can haz powahz fur my napz?!"
   ],
   "2025-02-19": [
     "National Chocolate Mint Day",
@@ -573,7 +573,7 @@ const lolcats = {
   ],
   "2025-02-20": [
     "Love Your Pet Day",
-    "\"I can haz all da snuggles? Love ur pet day, hoomans! \u2665\""
+    "I can haz all da snuggles? Love ur pet day, hoomans! \u2665"
   ],
   "2025-02-21": [
     "International Mother Language Day",
@@ -589,7 +589,7 @@ const lolcats = {
   ],
   "2025-02-24": [
     "National Tortilla Chip Day",
-    "\"I can haz nacho, pleez? Dis is my chip date!\""
+    "I can haz nacho, pleez? Dis is my chip date!"
   ],
   "2025-02-25": [
     "National Clam Chowder Day",
@@ -601,15 +601,15 @@ const lolcats = {
   ],
   "2025-02-27": [
     "Polar Bear Day",
-    "\"I can haz bein' a polar bear? Dis ain't what I meant by chilly!\""
+    "I can haz bein' a polar bear? Dis ain't what I meant by chilly!"
   ],
   "2025-02-28": [
     "National Public Sleeping Day",
-    "\"I can haz snooze anytime, all day, every day!\""
+    "I can haz snooze anytime, all day, every day!"
   ],
   "2025-03-01": [
     "St. David's Day",
-    "\"I can haz daffodil pie for St. David's Day?\""
+    "I can haz daffodil pie for St. David's Day?"
   ],
   "2025-03-02": [
     "Read Across America Day",
@@ -617,15 +617,15 @@ const lolcats = {
   ],
   "2025-03-03": [
     "World Wildlife Day",
-    "\"I can haz all da wildfrenz, plz?\""
+    "I can haz all da wildfrenz, plz?"
   ],
   "2025-03-04": [
     "National Grammar Day",
-    "\"Why u no tell me dat 'grammar' haz 2 b 'correct'? I just wanted to use da 'cutest'!\""
+    "Why u no tell me dat 'grammar' haz 2 b 'correct'? I just wanted to use da 'cutest'!"
   ],
   "2025-03-05": [
     "World Book Day (UK and Ireland)",
-    "\"Wat dis? A tale of kitties? I can haz snuggles n' stories?\""
+    "Wat dis? A tale of kitties? I can haz snuggles n' stories?"
   ],
   "2025-03-06": [
     "National Dentist's Day",
@@ -637,7 +637,7 @@ const lolcats = {
   ],
   "2025-03-08": [
     "International Women's Day",
-    "\"I can haz equal paw-sibilities, plz?!\""
+    "I can haz equal paw-sibilities, plz?!"
   ],
   "2025-03-09": [
     "National Meatball Day",
@@ -645,7 +645,7 @@ const lolcats = {
   ],
   "2025-03-10": [
     "National Pack Your Lunch Day",
-    "\"I can haz sandwich? Dis iz mai lunchbox, not a snoozebox!\""
+    "I can haz sandwich? Dis iz mai lunchbox, not a snoozebox!"
   ],
   "2025-03-11": [
     "World Plumbing Day",
@@ -661,19 +661,19 @@ const lolcats = {
   ],
   "2025-03-14": [
     "Pi Day",
-    "\"O-M-G! Dat's pi! I can haz?!?\""
+    "O-M-G! Dat's pi! I can haz?!?"
   ],
   "2025-03-15": [
     "The Ides of March",
-    "\"Et tu, Brute? I just wanted to nap!\""
+    "Et tu, Brute? I just wanted to nap!"
   ],
   "2025-03-16": [
     "National Panda Day",
-    "\"Wut is this, panda land? I haz no bamboo, only meh catnip!\""
+    "Wut is this, panda land? I haz no bamboo, only meh catnip!"
   ],
   "2025-03-17": [
     "St. Patrick's Day",
-    "\"I can haz all da shinnies? Aww, no rainbows for meh!\""
+    "I can haz all da shinnies? Aww, no rainbows for meh!"
   ],
   "2025-03-18": [
     "Global Recycling Day",
@@ -681,7 +681,7 @@ const lolcats = {
   ],
   "2025-03-19": [
     "National Let's Laugh Day",
-    "\"Wut? Dis ain't da paw-ty I signed up fur!\""
+    "Wut? Dis ain't da paw-ty I signed up fur!"
   ],
   "2025-03-20": [
     "First Day of Spring",
@@ -693,19 +693,19 @@ const lolcats = {
   ],
   "2025-03-22": [
     "World Water Day",
-    "\"I can haz swimmin' in da raindrops?!\""
+    "I can haz swimmin' in da raindrops?!"
   ],
   "2025-03-23": [
     "National Puppy Day",
-    "\"I can haz puppeh's toy? Furst come, furst servd!\""
+    "I can haz puppeh's toy? Furst come, furst servd!"
   ],
   "2025-03-24": [
     "World Tuberculosis Day",
-    "\"I can haz check-up? Dis cough iz NO joke!\""
+    "I can haz check-up? Dis cough iz NO joke!"
   ],
   "2025-03-25": [
     "Tolkien Reading Day",
-    "\"Not sure if dis is de Shire or just ma livin' room! Can I haz second breakfast?\""
+    "Not sure if dis is de Shire or just ma livin' room! Can I haz second breakfast?"
   ],
   "2025-03-26": [
     "Purple Day",
@@ -713,15 +713,15 @@ const lolcats = {
   ],
   "2025-03-27": [
     "World Theatre Day",
-    "\"Iz actin fur da ovationz! Bravo, hoomans!\""
+    "Iz actin fur da ovationz! Bravo, hoomans!"
   ],
   "2025-03-28": [
     "Something on a Stick Day",
-    "\"Iz dis snack or smol toy? I can haz both!\""
+    "Iz dis snack or smol toy? I can haz both!"
   ],
   "2025-03-29": [
     "National Vietnam War Veterans Day",
-    "\"I is on da front lines fur cuddles! Meowdicare fur all vets!\""
+    "I is on da front lines fur cuddles! Meowdicare fur all vets!"
   ],
   "2025-03-30": [
     "National Doctors' Day",
@@ -741,7 +741,7 @@ const lolcats = {
   ],
   "2025-04-03": [
     "National Find a Rainbow Day",
-    "\"I can haz all da rainbowz?!\""
+    "I can haz all da rainbowz?!"
   ],
   "2025-04-04": [
     "International Day for Mine Awareness",
@@ -753,15 +753,15 @@ const lolcats = {
   ],
   "2025-04-06": [
     "New Beer's Eve",
-    "\"I can haz new beerz eve pawty?!\""
+    "I can haz new beerz eve pawty?!"
   ],
   "2025-04-07": [
     "World Health Day",
-    "\"I can haz health check-up? I feel like a purrrfect patient!\""
+    "I can haz health check-up? I feel like a purrrfect patient!"
   ],
   "2025-04-08": [
     "National Zoo Lovers Day",
-    "\"I can haz a wild adventure today?\""
+    "I can haz a wild adventure today?"
   ],
   "2025-04-09": [
     "National Unicorn Day",
@@ -769,7 +769,7 @@ const lolcats = {
   ],
   "2025-04-10": [
     "National Siblings Day",
-    "\"Dis toy iz mine! NO U takez it!\""
+    "Dis toy iz mine! NO U takez it!"
   ],
   "2025-04-11": [
     "National Pet Day",
@@ -781,23 +781,23 @@ const lolcats = {
   ],
   "2025-04-13": [
     "Scrabble Day",
-    "\"Iz not sayin\u2019 \u2018paw-some\u2018 but I\u2019m tryin\u2019 to make a word dat haz at least 7 pointz!\""
+    "Iz not sayin\u2019 \u2018paw-some\u2018 but I\u2019m tryin\u2019 to make a word dat haz at least 7 pointz!"
   ],
   "2025-04-14": [
     "National Dolphin Day",
-    "\"I can haz dolphin frendz?!\""
+    "I can haz dolphin frendz?!"
   ],
   "2025-04-15": [
     "Tax Day (USA)",
-    "\"I can haz deductionz? Dis paper monster is too big!\""
+    "I can haz deductionz? Dis paper monster is too big!"
   ],
   "2025-04-16": [
     "National Wear Your Pajamas to Work Day",
-    "\"I can haz napz at werk? YAYZ pajama day!\""
+    "I can haz napz at werk? YAYZ pajama day!"
   ],
   "2025-04-17": [
     "International Haiku Poetry Day",
-    "\"I rymz better den u, hooman! Meowku for life!\""
+    "I rymz better den u, hooman! Meowku for life!"
   ],
   "2025-04-18": [
     "National Columnists' Day",
@@ -805,11 +805,11 @@ const lolcats = {
   ],
   "2025-04-19": [
     "National Garlic Day",
-    "\"Iz not likin\u2019 dis stinky snack, but I can haz garlic bread?\""
+    "Iz not likin\u2019 dis stinky snack, but I can haz garlic bread?"
   ],
   "2025-04-20": [
     "Chinese Language Day",
-    "\"I can haz 'nese? Dis too many kanji!\""
+    "I can haz 'nese? Dis too many kanji!"
   ],
   "2025-04-21": [
     "World Creativity and Innovation Day",
@@ -817,15 +817,15 @@ const lolcats = {
   ],
   "2025-04-22": [
     "Earth Day",
-    "\"I can haz all da veggies?! \ud83c\udf0d\""
+    "I can haz all da veggies?! \ud83c\udf0d"
   ],
   "2025-04-23": [
     "World Book and Copyright Day",
-    "\"I can haz readz? Or iz it a trap?!\""
+    "I can haz readz? Or iz it a trap?!"
   ],
   "2025-04-24": [
     "Arbor Day",
-    "\"I can haz Arbor Day? Treez is my new bestie!\""
+    "I can haz Arbor Day? Treez is my new bestie!"
   ],
   "2025-04-25": [
     "World Penguin Day",
@@ -833,7 +833,7 @@ const lolcats = {
   ],
   "2025-04-26": [
     "National Pretzel Day",
-    "\"I can haz soft pretzel? Why it not on mai plate?!\""
+    "I can haz soft pretzel? Why it not on mai plate?!"
   ],
   "2025-04-27": [
     "National Tell a Story Day",
@@ -841,7 +841,7 @@ const lolcats = {
   ],
   "2025-04-28": [
     "International Workers' Memorial Day",
-    "\"I can haz safe workplace? No kits are safe!\""
+    "I can haz safe workplace? No kits are safe!"
   ],
   "2025-04-29": [
     "International Dance Day",
@@ -849,7 +849,7 @@ const lolcats = {
   ],
   "2025-04-30": [
     "International Jazz Day",
-    "\"Jazz paws on da keys, I can haz catnip solo?\""
+    "Jazz paws on da keys, I can haz catnip solo?"
   ],
   "2025-05-01": [
     "International Workers' Day",
@@ -857,27 +857,27 @@ const lolcats = {
   ],
   "2025-05-02": [
     "National Brothers and Sisters Day",
-    "\"I CAN HAS ALL DA YARNZ, BRUDDA?! \ud83d\ude39\""
+    "I CAN HAS ALL DA YARNZ, BRUDDA?! \ud83d\ude39"
   ],
   "2025-05-03": [
     "World Press Freedom Day",
-    "\"I can haz press pass? I reportz da mews!\""
+    "I can haz press pass? I reportz da mews!"
   ],
   "2025-05-04": [
     "Star Wars Day",
-    "\"May the furce be wif me! I can haz lightsaber?\""
+    "May the furce be wif me! I can haz lightsaber?"
   ],
   "2025-05-05": [
     "Cinco de Mayo",
-    "\"I can haz taco fiesta? Where da paw-some salsa at?\""
+    "I can haz taco fiesta? Where da paw-some salsa at?"
   ],
   "2025-05-06": [
     "International No Diet Day",
-    "\"I can haz cheezeburger! No diet day, we're partyin'!\""
+    "I can haz cheezeburger! No diet day, we're partyin'!"
   ],
   "2025-05-07": [
     "National Space Day",
-    "\"I can haz space treats? Dis universe is fluffly!\""
+    "I can haz space treats? Dis universe is fluffly!"
   ],
   "2025-05-08": [
     "World Red Cross and Red Crescent Day",
@@ -885,7 +885,7 @@ const lolcats = {
   ],
   "2025-05-09": [
     "Europe Day",
-    "\"I can haz Eurotrip? Where da scritches at?\""
+    "I can haz Eurotrip? Where da scritches at?"
   ],
   "2025-05-10": [
     "Clean Up Your Room Day",
@@ -897,7 +897,7 @@ const lolcats = {
   ],
   "2025-05-12": [
     "International Nurses Day",
-    "\"I can haz healthz checkup? Time fur purrfect care!\""
+    "I can haz healthz checkup? Time fur purrfect care!"
   ],
   "2025-05-13": [
     "National Apple Pie Day",
@@ -905,27 +905,27 @@ const lolcats = {
   ],
   "2025-05-14": [
     "National Dance Like a Chicken Day",
-    "\"I can haz flappin\u2019 fun?! Bawk bawk boogie time!\""
+    "I can haz flappin\u2019 fun?! Bawk bawk boogie time!"
   ],
   "2025-05-15": [
     "International Day of Families",
-    "\"Whut dis? I's part of da fambly now?!\""
+    "Whut dis? I's part of da fambly now?!"
   ],
   "2025-05-16": [
     "National Love a Tree Day",
-    "\"I can haz tree hugz? Dis is mah bestest fwiend!\""
+    "I can haz tree hugz? Dis is mah bestest fwiend!"
   ],
   "2025-05-17": [
     "World Telecommunication and Information Society Day",
-    "\"Yoo noeez wat dis? I can haz interwebz now?\""
+    "Yoo noeez wat dis? I can haz interwebz now?"
   ],
   "2025-05-18": [
     "International Museum Day",
-    "\"Wut is dis? I can haz muezum snacks?\""
+    "Wut is dis? I can haz muezum snacks?"
   ],
   "2025-05-19": [
     "World Plant a Vegetable Garden Day",
-    "\"Iz u ready to plantz some nomz? Lettuce dig in!\""
+    "Iz u ready to plantz some nomz? Lettuce dig in!"
   ],
   "2025-05-20": [
     "World Bee Day",
@@ -933,15 +933,15 @@ const lolcats = {
   ],
   "2025-05-21": [
     "World Day for Cultural Diversity",
-    "\"Dis is wut I call a pawsitive multicultural pawty! Can I haz all da snacks?\""
+    "Dis is wut I call a pawsitive multicultural pawty! Can I haz all da snacks?"
   ],
   "2025-05-22": [
     "International Day for Biological Diversity",
-    "\"Wot in da fern is dis?! I can haz all da sniffs?\""
+    "Wot in da fern is dis?! I can haz all da sniffs?"
   ],
   "2025-05-23": [
     "World Turtle Day",
-    "\"Wut? Dis not a big cat bed? I can haz ride?!\""
+    "Wut? Dis not a big cat bed? I can haz ride?!"
   ],
   "2025-05-24": [
     "National Scavenger Hunt Day",
@@ -953,11 +953,11 @@ const lolcats = {
   ],
   "2025-05-26": [
     "Sally Ride Day",
-    "\"I can haz space adventure, meow?! \ud83d\ude80\u2728\""
+    "I can haz space adventure, meow?! \ud83d\ude80\u2728"
   ],
   "2025-05-27": [
     "National Sunscreen Day",
-    "\"Sunscreem? I prefur mai naps in da sun!\""
+    "Sunscreem? I prefur mai naps in da sun!"
   ],
   "2025-05-28": [
     "National Hamburger Day",
@@ -965,19 +965,19 @@ const lolcats = {
   ],
   "2025-05-29": [
     "International Day of UN Peacekeepers",
-    "\"I can haz world peace, plz?\""
+    "I can haz world peace, plz?"
   ],
   "2025-05-30": [
     "National Creativity Day",
-    "\"Wat dis? I can haz art?!\""
+    "Wat dis? I can haz art?!"
   ],
   "2025-05-31": [
     "World No Tobacco Day",
-    "\"I can haz fresh air, plz? Dis smokes no funs!\""
+    "I can haz fresh air, plz? Dis smokes no funs!"
   ],
   "2025-06-01": [
     "Global Day of Parents",
-    "\"I dedikate dis card to my main hooman! I can haz extra treats, right?\""
+    "I dedikate dis card to my main hooman! I can haz extra treats, right?"
   ],
   "2025-06-02": [
     "National Rocky Road Day",
@@ -997,15 +997,15 @@ const lolcats = {
   ],
   "2025-06-06": [
     "National Yo-Yo Day",
-    "\"Iz doin' the yo-yo! Can I haz a spin too?\""
+    "Iz doin' the yo-yo! Can I haz a spin too?"
   ],
   "2025-06-07": [
     "National Chocolate Ice Cream Day",
-    "\"Iz u sure dis not ma hat? I can haz choccy ice cream?!\""
+    "Iz u sure dis not ma hat? I can haz choccy ice cream?!"
   ],
   "2025-06-08": [
     "World Oceans Day",
-    "\"Arrr matey! Where be da fishies at?\""
+    "Arrr matey! Where be da fishies at?"
   ],
   "2025-06-09": [
     "National Donald Duck Day",
@@ -1021,27 +1021,27 @@ const lolcats = {
   ],
   "2025-06-12": [
     "World Day Against Child Labour",
-    "\"I can haz no work, just plai?!\""
+    "I can haz no work, just plai?!"
   ],
   "2025-06-13": [
     "International Axe Throwing Day",
-    "\"Wut?! You throwin' axes? I can haz turn, right?\""
+    "Wut?! You throwin' axes? I can haz turn, right?"
   ],
   "2025-06-14": [
     "Flag Day (USA)",
-    "\"I can haz grill party fur Flag Day? Let\u2019s paw-ty, hoomans!\""
+    "I can haz grill party fur Flag Day? Let\u2019s paw-ty, hoomans!"
   ],
   "2025-06-15": [
     "Nature Photography Day",
-    "\"Wot dis? Nature iz a purrfect hide n' seek playground!\""
+    "Wot dis? Nature iz a purrfect hide n' seek playground!"
   ],
   "2025-06-16": [
     "International Day of the African Child",
-    "\"I can haz world, plz? Dis be my jam!\""
+    "I can haz world, plz? Dis be my jam!"
   ],
   "2025-06-17": [
     "World Day to Combat Desertification",
-    "\"Why u no give me drinky? Dis is not livin\u2019! Can I haz water plz?\""
+    "Why u no give me drinky? Dis is not livin\u2019! Can I haz water plz?"
   ],
   "2025-06-18": [
     "International Picnic Day",
@@ -1053,11 +1053,11 @@ const lolcats = {
   ],
   "2025-06-20": [
     "World Refugee Day",
-    "\"I can haz safe place? Dis box is my new world!\""
+    "I can haz safe place? Dis box is my new world!"
   ],
   "2025-06-21": [
     "International Yoga Day",
-    "\"I can haz inner peeac? But furst, I need more catnaps!\""
+    "I can haz inner peeac? But furst, I need more catnaps!"
   ],
   "2025-06-22": [
     "National Chocolate Eclair Day",
@@ -1065,7 +1065,7 @@ const lolcats = {
   ],
   "2025-06-23": [
     "United Nations Public Service Day",
-    "\"I can haz peace treaty? I bring fish!\""
+    "I can haz peace treaty? I bring fish!"
   ],
   "2025-06-24": [
     "National Pralines Day",
@@ -1073,23 +1073,23 @@ const lolcats = {
   ],
   "2025-06-25": [
     "Global Beatles Day",
-    "\"I no need no help, I just wanna rock n' roll, meow!\""
+    "I no need no help, I just wanna rock n' roll, meow!"
   ],
   "2025-06-26": [
     "International Day Against Drug Abuse and Illicit Trafficking",
-    "\"I can haz clean kitties, plz? No moar bad temptashun!\""
+    "I can haz clean kitties, plz? No moar bad temptashun!"
   ],
   "2025-06-27": [
     "National Sunglasses Day",
-    "\"I can haz cool shade? #SunglassSwag\""
+    "I can haz cool shade? #SunglassSwag"
   ],
   "2025-06-28": [
     "International Body Piercing Day",
-    "\"Wut dis shiny thing? Can I haz one too?\""
+    "Wut dis shiny thing? Can I haz one too?"
   ],
   "2025-06-29": [
     "National Camera Day",
-    "\"I can haz photobook? I take best picshurs!\""
+    "I can haz photobook? I take best picshurs!"
   ],
   "2025-06-30": [
     "Asteroid Day",
@@ -1101,11 +1101,11 @@ const lolcats = {
   ],
   "2025-07-02": [
     "World UFO Day",
-    "\"OMG! Is dat ma new toy from da sky?! I can haz space mice?!\""
+    "OMG! Is dat ma new toy from da sky?! I can haz space mice?!"
   ],
   "2025-07-03": [
     "International Plastic Bag Free Day",
-    "\"Wut is dis bag?! Can I sleep in it or iz it evil?!\""
+    "Wut is dis bag?! Can I sleep in it or iz it evil?!"
   ],
   "2025-07-04": [
     "Independence Day (USA)",
@@ -1117,7 +1117,7 @@ const lolcats = {
   ],
   "2025-07-06": [
     "International Kissing Day",
-    "\"I can haz kissy-wissies? \u2764\ufe0f\""
+    "I can haz kissy-wissies? \u2764\ufe0f"
   ],
   "2025-07-07": [
     "World Chocolate Day",
@@ -1125,7 +1125,7 @@ const lolcats = {
   ],
   "2025-07-08": [
     "National Video Game Day",
-    "\"I can haz extra life? Press paw to continue!\""
+    "I can haz extra life? Press paw to continue!"
   ],
   "2025-07-09": [
     "National Sugar Cookie Day",
@@ -1133,11 +1133,11 @@ const lolcats = {
   ],
   "2025-07-10": [
     "Teddy Bear Picnic Day",
-    "\"Iz dis a teddy bear picnix o' just a bear-y big surprise?!\""
+    "Iz dis a teddy bear picnix o' just a bear-y big surprise?!"
   ],
   "2025-07-11": [
     "World Population Day",
-    "\"Wut do u mean ALL dis is humans? I just wanted a snack!\""
+    "Wut do u mean ALL dis is humans? I just wanted a snack!"
   ],
   "2025-07-12": [
     "National Simplicity Day",
@@ -1145,7 +1145,7 @@ const lolcats = {
   ],
   "2025-07-13": [
     "National French Fry Day",
-    "\"I can haz fryz? Nom nom nom!!!\""
+    "I can haz fryz? Nom nom nom!!!"
   ],
   "2025-07-14": [
     "Bastille Day",
@@ -1157,7 +1157,7 @@ const lolcats = {
   ],
   "2025-07-16": [
     "World Snake Day",
-    "\"Oh noes! Dis ain\u2019t no plaything, it\u2019s a sneaky slither-frend!\""
+    "Oh noes! Dis ain\u2019t no plaything, it\u2019s a sneaky slither-frend!"
   ],
   "2025-07-17": [
     "World Emoji Day",
@@ -1205,11 +1205,11 @@ const lolcats = {
   ],
   "2025-07-28": [
     "World Hepatitis Day",
-    "\"Is dis a medsin or a toy? Can I haz boof?!\""
+    "Is dis a medsin or a toy? Can I haz boof?!"
   ],
   "2025-07-29": [
     "International Tiger Day",
-    "\"I can haz stripes on International Tiger Day?\""
+    "I can haz stripes on International Tiger Day?"
   ],
   "2025-07-30": [
     "International Day of Friendship",
@@ -1221,7 +1221,7 @@ const lolcats = {
   ],
   "2025-08-01": [
     "World Wide Web Day",
-    "\"Wut is dis World Wide Web? Can I haz sum catnaps online?\""
+    "Wut is dis World Wide Web? Can I haz sum catnaps online?"
   ],
   "2025-08-02": [
     "National Ice Cream Sandwich Day",
@@ -1237,19 +1237,19 @@ const lolcats = {
   ],
   "2025-08-05": [
     "National Underwear Day",
-    "\"Iz nappy undies, rite? I can haz fashion show now!\""
+    "Iz nappy undies, rite? I can haz fashion show now!"
   ],
   "2025-08-06": [
     "National Root Beer Float Day",
-    "\"Wat dis? I can haz floaty ice creamz?\""
+    "Wat dis? I can haz floaty ice creamz?"
   ],
   "2025-08-07": [
     "International Beer Day",
-    "\"I can haz pint? Dis hooman hazs all da beers!\""
+    "I can haz pint? Dis hooman hazs all da beers!"
   ],
   "2025-08-08": [
     "International Cat Day",
-    "\"Dis my hooman\u2019 b-day? I can haz ALL da catnip!\""
+    "Dis my hooman\u2019 b-day? I can haz ALL da catnip!"
   ],
   "2025-08-09": [
     "National Book Lovers Day",
@@ -1257,19 +1257,19 @@ const lolcats = {
   ],
   "2025-08-10": [
     "National Lazy Day",
-    "\"Naps r da best! Can I haz snooze til nacho time?\""
+    "Naps r da best! Can I haz snooze til nacho time?"
   ],
   "2025-08-11": [
     "National Son and Daughter Day",
-    "\"Aww, where be ma hoomans? I can haz big hugs now?\""
+    "Aww, where be ma hoomans? I can haz big hugs now?"
   ],
   "2025-08-12": [
     "International Youth Day",
-    "\"Chillin' like a pro, I can haz summer funs for International Youth Day!\""
+    "Chillin' like a pro, I can haz summer funs for International Youth Day!"
   ],
   "2025-08-13": [
     "International Left-Handers Day",
-    "\"I iz left-pawed, not left out! Gimme dat nommy coffee!\""
+    "I iz left-pawed, not left out! Gimme dat nommy coffee!"
   ],
   "2025-08-14": [
     "National Creamsicle Day",
@@ -1277,7 +1277,7 @@ const lolcats = {
   ],
   "2025-08-15": [
     "National Relaxation Day",
-    "\"Is dis relaxashun? I can haz all da naps!\""
+    "Is dis relaxashun? I can haz all da naps!"
   ],
   "2025-08-16": [
     "National Tell a Joke Day",
@@ -1297,11 +1297,11 @@ const lolcats = {
   ],
   "2025-08-20": [
     "National Lemonade Day",
-    "\"Lemonade? I can haz all da zesty sips!\""
+    "Lemonade? I can haz all da zesty sips!"
   ],
   "2025-08-21": [
     "Senior Citizens Day",
-    "\"Whut? I can haz cake at my age?!!\""
+    "Whut? I can haz cake at my age?!!"
   ],
   "2025-08-22": [
     "Be an Angel Day",
@@ -1321,7 +1321,7 @@ const lolcats = {
   ],
   "2025-08-26": [
     "Women's Equality Day",
-    "\"I can haz equal pawsibilities?!\""
+    "I can haz equal pawsibilities?!"
   ],
   "2025-08-27": [
     "National Just Because Day",
@@ -1329,15 +1329,15 @@ const lolcats = {
   ],
   "2025-08-28": [
     "National Bow Tie Day",
-    "\"Yooz thinkin' dis be my best tie? I can haz fashion advice?!\""
+    "Yooz thinkin' dis be my best tie? I can haz fashion advice?!"
   ],
   "2025-08-29": [
     "International Day against Nuclear Tests",
-    "\"I can haz safe spot from kaboomz?\""
+    "I can haz safe spot from kaboomz?"
   ],
   "2025-08-30": [
     "International Day of the Disappeared",
-    "\"Where iz I? I can haz me back, pleez?\""
+    "Where iz I? I can haz me back, pleez?"
   ],
   "2025-08-31": [
     "National Trail Mix Day",
@@ -1345,15 +1345,15 @@ const lolcats = {
   ],
   "2025-09-01": [
     "Labor Day (USA)",
-    "\"I can haz day off? Wurk is for hoomanz!\""
+    "I can haz day off? Wurk is for hoomanz!"
   ],
   "2025-09-02": [
     "World Coconut Day",
-    "\"I can haz coconut drinkz? Dis flava is purrfection!\""
+    "I can haz coconut drinkz? Dis flava is purrfection!"
   ],
   "2025-09-03": [
     "Skyscraper Day",
-    "\"I can haz big city livin'?\""
+    "I can haz big city livin'?"
   ],
   "2025-09-04": [
     "National Wildlife Day",
@@ -1361,7 +1361,7 @@ const lolcats = {
   ],
   "2025-09-05": [
     "International Day of Charity",
-    "\"I can haz all da kitties a home? Plz helpz wif da charity!\""
+    "I can haz all da kitties a home? Plz helpz wif da charity!"
   ],
   "2025-09-06": [
     "National Read a Book Day",
@@ -1369,7 +1369,7 @@ const lolcats = {
   ],
   "2025-09-07": [
     "International Day of Clean Air",
-    "\"When ur air so fresh it makes u go 'Achoo! I can haz cleener air, plz?'\""
+    "When ur air so fresh it makes u go 'Achoo! I can haz cleener air, plz?'"
   ],
   "2025-09-08": [
     "International Literacy Day",
@@ -1381,15 +1381,15 @@ const lolcats = {
   ],
   "2025-09-10": [
     "World Suicide Prevention Day",
-    "\"I see you, hooman! Don\u2019t furget, you iz not alone! \ud83d\udc3e\ud83d\udc99\""
+    "I see you, hooman! Don\u2019t furget, you iz not alone! \ud83d\udc3e\ud83d\udc99"
   ],
   "2025-09-11": [
     "Patriot Day (USA)",
-    "\"Wut is dis? I can haz flags and balloonz, plz?\""
+    "Wut is dis? I can haz flags and balloonz, plz?"
   ],
   "2025-09-12": [
     "National Video Games Day",
-    "\"I can haz all da lewts on National Video Games Day?!\""
+    "I can haz all da lewts on National Video Games Day?!"
   ],
   "2025-09-13": [
     "International Programmers' Day",
@@ -1397,7 +1397,7 @@ const lolcats = {
   ],
   "2025-09-14": [
     "National Coloring Day",
-    "\"I wanna colorz all da thingz!\""
+    "I wanna colorz all da thingz!"
   ],
   "2025-09-15": [
     "International Day of Democracy",
@@ -1405,7 +1405,7 @@ const lolcats = {
   ],
   "2025-09-16": [
     "International Day for the Preservation of the Ozone Layer",
-    "\"Wut u mean we need moar ozone, hooman? I can haz uv protection too!\""
+    "Wut u mean we need moar ozone, hooman? I can haz uv protection too!"
   ],
   "2025-09-17": [
     "Constitution Day (USA)",
@@ -1417,7 +1417,7 @@ const lolcats = {
   ],
   "2025-09-19": [
     "International Talk Like a Pirate Day",
-    "\"Arrrgh! I can haz me treasures, or just me fishy treats?\""
+    "Arrrgh! I can haz me treasures, or just me fishy treats?"
   ],
   "2025-09-20": [
     "National Pepperoni Pizza Day",
@@ -1425,7 +1425,7 @@ const lolcats = {
   ],
   "2025-09-21": [
     "International Day of Peace",
-    "\"I can haz world peace, plz? Purrs unite!\""
+    "I can haz world peace, plz? Purrs unite!"
   ],
   "2025-09-22": [
     "First Day of Autumn",
@@ -1433,7 +1433,7 @@ const lolcats = {
   ],
   "2025-09-23": [
     "National Dogs in Politics Day",
-    "\"Vote fur me! I promise more naptimez and treatz fur all!\""
+    "Vote fur me! I promise more naptimez and treatz fur all!"
   ],
   "2025-09-24": [
     "National Punctuation Day",
@@ -1441,11 +1441,11 @@ const lolcats = {
   ],
   "2025-09-25": [
     "World Dream Day",
-    "\"I can haz all da dreamz, plz!\""
+    "I can haz all da dreamz, plz!"
   ],
   "2025-09-26": [
     "European Day of Languages",
-    "\"Iz gonnah learn all da meowtiful tongues!\""
+    "Iz gonnah learn all da meowtiful tongues!"
   ],
   "2025-09-27": [
     "World Tourism Day",
@@ -1453,15 +1453,15 @@ const lolcats = {
   ],
   "2025-09-28": [
     "National Good Neighbor Day",
-    "\"Iz neighborly-dayz, but dis fence haz too many flowerz! Can I haz ur treats?\""
+    "Iz neighborly-dayz, but dis fence haz too many flowerz! Can I haz ur treats?"
   ],
   "2025-09-29": [
     "World Heart Day",
-    "\"I can haz a heArt-ful day? Plz no vet! \ud83d\udc96\""
+    "I can haz a heArt-ful day? Plz no vet! \ud83d\udc96"
   ],
   "2025-09-30": [
     "International Podcast Day",
-    "\"I can haz new episode? I just wanna know... whut iz dis 'drama'!\""
+    "I can haz new episode? I just wanna know... whut iz dis 'drama'!"
   ],
   "2025-10-01": [
     "International Coffee Day",
@@ -1469,7 +1469,7 @@ const lolcats = {
   ],
   "2025-10-02": [
     "International Day of Non-Violence",
-    "\"I can haz peace, nao? Purr-lease!\""
+    "I can haz peace, nao? Purr-lease!"
   ],
   "2025-10-03": [
     "National Techies Day",
@@ -1477,7 +1477,7 @@ const lolcats = {
   ],
   "2025-10-04": [
     "World Animal Day",
-    "\"Whut's dis? I can haz superpowers? #WorldAnimalDay!\""
+    "Whut's dis? I can haz superpowers? #WorldAnimalDay!"
   ],
   "2025-10-05": [
     "World Teachers' Day",
@@ -1489,7 +1489,7 @@ const lolcats = {
   ],
   "2025-10-07": [
     "World Smile Day",
-    "\"I can haz all da smiles for World Smile Day! \ud83c\udf88\ud83d\ude38\""
+    "I can haz all da smiles for World Smile Day! \ud83c\udf88\ud83d\ude38"
   ],
   "2025-10-08": [
     "National Pierogi Day",
@@ -1501,11 +1501,11 @@ const lolcats = {
   ],
   "2025-10-10": [
     "World Mental Health Day",
-    "\"I can haz feelz too, but furst, let\u2019s tak a nap!\""
+    "I can haz feelz too, but furst, let\u2019s tak a nap!"
   ],
   "2025-10-11": [
     "International Day of the Girl Child",
-    "\"I can haz edumacationz? Let\u2019s go learnz, hoomans!\""
+    "I can haz edumacationz? Let\u2019s go learnz, hoomans!"
   ],
   "2025-10-12": [
     "National Farmers Day",
@@ -1513,7 +1513,7 @@ const lolcats = {
   ],
   "2025-10-13": [
     "National Train Your Brain Day",
-    "\"Dis iz how I trainz mah brainz: by readin\u2019 ALL da bookz!\""
+    "Dis iz how I trainz mah brainz: by readin\u2019 ALL da bookz!"
   ],
   "2025-10-14": [
     "National Dessert Day",
@@ -1521,7 +1521,7 @@ const lolcats = {
   ],
   "2025-10-15": [
     "Global Handwashing Day",
-    "\"Washin\u2019 mah pawz so I can haz all da treats!\""
+    "Washin\u2019 mah pawz so I can haz all da treats!"
   ],
   "2025-10-16": [
     "World Food Day",
@@ -1529,7 +1529,7 @@ const lolcats = {
   ],
   "2025-10-17": [
     "International Day for the Eradication of Poverty",
-    "\"I can haz hugs, not poverty!\""
+    "I can haz hugs, not poverty!"
   ],
   "2025-10-18": [
     "National Chocolate Cupcake Day",
@@ -1537,23 +1537,23 @@ const lolcats = {
   ],
   "2025-10-19": [
     "Evaluate Your Life Day",
-    "\"Iz tis life I choozed? Or iz it just a fluffin' maze?!\""
+    "Iz tis life I choozed? Or iz it just a fluffin' maze?!"
   ],
   "2025-10-20": [
     "International Sloth Day",
-    "\"I can haz nap now, right? Itz International Sloth Day!\""
+    "I can haz nap now, right? Itz International Sloth Day!"
   ],
   "2025-10-21": [
     "National Reptile Awareness Day",
-    "\"I can haz reptile frend? Dis iz a bit too much, hoomin!\""
+    "I can haz reptile frend? Dis iz a bit too much, hoomin!"
   ],
   "2025-10-22": [
     "International Stuttering Awareness Day",
-    "\"I can haz nuh-stutterz? Plz?!?\""
+    "I can haz nuh-stutterz? Plz?!?"
   ],
   "2025-10-23": [
     "Mole Day",
-    "\"Wut dis? I can haz moleculz in mah tummy?\""
+    "Wut dis? I can haz moleculz in mah tummy?"
   ],
   "2025-10-24": [
     "United Nations Day",
@@ -1561,15 +1561,15 @@ const lolcats = {
   ],
   "2025-10-25": [
     "World Pasta Day",
-    "\"I can haz pasta party? Dis not a cat food!\""
+    "I can haz pasta party? Dis not a cat food!"
   ],
   "2025-10-26": [
     "National Pumpkin Day",
-    "\"I can haz punkin! Dis da bestest hide-and-seek!\""
+    "I can haz punkin! Dis da bestest hide-and-seek!"
   ],
   "2025-10-27": [
     "National Black Cat Day",
-    "\"I can haz orange glow? Dis is MY spooky treat!\""
+    "I can haz orange glow? Dis is MY spooky treat!"
   ],
   "2025-10-28": [
     "National Chocolate Day",
@@ -1581,11 +1581,11 @@ const lolcats = {
   ],
   "2025-10-30": [
     "National Candy Corn Day",
-    "\"Wut dis? I can haz sum of da corny??!\""
+    "Wut dis? I can haz sum of da corny??!"
   ],
   "2025-10-31": [
     "Halloween",
-    "\"I can haz cheezeburger... or iz it a haunted burger?!\""
+    "I can haz cheezeburger... or iz it a haunted burger?!"
   ],
   "2025-11-01": [
     "All Saints' Day",
@@ -1605,7 +1605,7 @@ const lolcats = {
   ],
   "2025-11-05": [
     "Guy Fawkes Night",
-    "\"I can haz 'splosive exit?!\""
+    "I can haz 'splosive exit?!"
   ],
   "2025-11-06": [
     "National Nachos Day",
@@ -1629,11 +1629,11 @@ const lolcats = {
   ],
   "2025-11-11": [
     "Veterans Day",
-    "\"I can haz freedom, hooman? Naptime is my secret mission!\""
+    "I can haz freedom, hooman? Naptime is my secret mission!"
   ],
   "2025-11-12": [
     "National Happy Hour Day",
-    "\"I can haz paw-sitively purrfect happy hour?!\""
+    "I can haz paw-sitively purrfect happy hour?!"
   ],
   "2025-11-13": [
     "World Kindness Day",
@@ -1641,7 +1641,7 @@ const lolcats = {
   ],
   "2025-11-14": [
     "World Diabetes Day",
-    "\"Dis iz my new diet plan? Can I haz treatz instead?\""
+    "Dis iz my new diet plan? Can I haz treatz instead?"
   ],
   "2025-11-15": [
     "National Clean Out Your Refrigerator Day",
@@ -1649,11 +1649,11 @@ const lolcats = {
   ],
   "2025-11-16": [
     "International Day for Tolerance",
-    "\"Wot dis? Iz it cat-toleranz? I can haz peace, plz?\""
+    "Wot dis? Iz it cat-toleranz? I can haz peace, plz?"
   ],
   "2025-11-17": [
     "International Students' Day",
-    "\"I can haz smart? Dis bookz too big for my fluff!\""
+    "I can haz smart? Dis bookz too big for my fluff!"
   ],
   "2025-11-18": [
     "Mickey Mouse's Birthday",
@@ -1665,31 +1665,31 @@ const lolcats = {
   ],
   "2025-11-20": [
     "Universal Children's Day",
-    "\"I can haz partay? Nuff funs for all da kittehz!\""
+    "I can haz partay? Nuff funs for all da kittehz!"
   ],
   "2025-11-21": [
     "World Television Day",
-    "\"I can haz cheezburgr in HD? Dis is da purrrfect channel!\""
+    "I can haz cheezburgr in HD? Dis is da purrrfect channel!"
   ],
   "2025-11-22": [
     "Go For a Ride Day",
-    "\"I can haz ride? Biking iz my faverit!\""
+    "I can haz ride? Biking iz my faverit!"
   ],
   "2025-11-23": [
     "Fibonacci Day",
-    "\"Iz dis foodz or da Fibonacci spiral? I can haz both?\""
+    "Iz dis foodz or da Fibonacci spiral? I can haz both?"
   ],
   "2025-11-24": [
     "National Sardines Day",
-    "\"I can haz sahrdinez? Dis is da life!\""
+    "I can haz sahrdinez? Dis is da life!"
   ],
   "2025-11-25": [
     "International Day for the Elimination of Violence against Women",
-    "\"I can haz powah, no more hurtz! \ud83d\udc3e\ud83d\udc9c\""
+    "I can haz powah, no more hurtz! \ud83d\udc3e\ud83d\udc9c"
   ],
   "2025-11-26": [
     "National Cake Day",
-    "\"I can haz ALL da cake plz?!\""
+    "I can haz ALL da cake plz?!"
   ],
   "2025-11-27": [
     "Thanksgiving Day (USA)",
@@ -1705,7 +1705,7 @@ const lolcats = {
   ],
   "2025-11-30": [
     "Computer Security Day",
-    "\"Iz I securez now? Can I haz da safeties?\""
+    "Iz I securez now? Can I haz da safeties?"
   ],
   "2025-12-01": [
     "World AIDS Day",
@@ -1717,7 +1717,7 @@ const lolcats = {
   ],
   "2025-12-03": [
     "International Day of Persons with Disabilities",
-    "\"I can haz awareness? Dis cat's got miewment!\""
+    "I can haz awareness? Dis cat's got miewment!"
   ],
   "2025-12-04": [
     "National Cookie Day",
@@ -1725,7 +1725,7 @@ const lolcats = {
   ],
   "2025-12-05": [
     "World Soil Day",
-    "\"I can haz green thumbs? Dis dirt is mine now!\""
+    "I can haz green thumbs? Dis dirt is mine now!"
   ],
   "2025-12-06": [
     "St. Nicholas Day",
@@ -1745,7 +1745,7 @@ const lolcats = {
   ],
   "2025-12-10": [
     "Human Rights Day",
-    "\"I can haz rights too, right? #Pawtition4Paws!\""
+    "I can haz rights too, right? #Pawtition4Paws!"
   ],
   "2025-12-11": [
     "International Mountain Day",
@@ -1761,11 +1761,11 @@ const lolcats = {
   ],
   "2025-12-14": [
     "National Monkey Day",
-    "\"Did I turn into monkey? I can haz banana, rite?\""
+    "Did I turn into monkey? I can haz banana, rite?"
   ],
   "2025-12-15": [
     "Bill of Rights Day",
-    "\"U can haz rights, but where da treats??\""
+    "U can haz rights, but where da treats??"
   ],
   "2025-12-16": [
     "National Chocolate Covered Anything Day",
@@ -1777,7 +1777,7 @@ const lolcats = {
   ],
   "2025-12-18": [
     "International Migrants Day",
-    "\"I can haz new adventures, plz? Nomad kitty on da move!\""
+    "I can haz new adventures, plz? Nomad kitty on da move!"
   ],
   "2025-12-19": [
     "National Hard Candy Day",
@@ -1785,7 +1785,7 @@ const lolcats = {
   ],
   "2025-12-20": [
     "International Human Solidarity Day",
-    "\"Wurld peace is furrr realz, amirite?\""
+    "Wurld peace is furrr realz, amirite?"
   ],
   "2025-12-21": [
     "First Day of Winter",
@@ -1797,7 +1797,7 @@ const lolcats = {
   ],
   "2025-12-23": [
     "Festivus",
-    "\"Dis is not what I meant by feats of strength!\""
+    "Dis is not what I meant by feats of strength!"
   ],
   "2025-12-24": [
     "Christmas Eve",
@@ -1813,7 +1813,7 @@ const lolcats = {
   ],
   "2025-12-27": [
     "National Fruitcake Day",
-    "\"Wat dis big squishy cake? Can I haz slice?\""
+    "Wat dis big squishy cake? Can I haz slice?"
   ],
   "2025-12-28": [
     "National Card Playing Day",
@@ -1821,7 +1821,7 @@ const lolcats = {
   ],
   "2025-12-29": [
     "Tick Tock Day",
-    "\"Iz it Tick Tock Day yet? I can haz all da treatz?\""
+    "Iz it Tick Tock Day yet? I can haz all da treatz?"
   ],
   "2025-12-30": [
     "Bacon Day",
@@ -1829,7 +1829,7 @@ const lolcats = {
   ],
   "2025-12-31": [
     "New Year's Eve",
-    "\"Iz it New Yeerz yet?? I can haz all da treats?\""
+    "Iz it New Yeerz yet?? I can haz all da treats?"
   ]
 };
 

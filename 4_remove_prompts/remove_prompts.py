@@ -20,7 +20,7 @@ with open(csv_file_path, 'r') as csvfile:
     for row in csv_reader:
         data[row["Date"]] = [
             row["Theme"],
-            row["Caption"]
+            row["Caption"].strip('"')
         ]
 
 # Write the result to a JavaScript file
