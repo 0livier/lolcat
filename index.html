@@ -5,17 +5,16 @@
     <link rel="icon" type="image/svg+xml" href="/lolcat.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>LOL.CAT</title>
-    <link rel="preconnect" href="https://fontlay.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fontlay.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
   </head>
   <body>
     <div class="relative h-screen">
       <div id="background" class="absolute inset-0 bg-cover bg-center"></div>
       <div id="lulz" class="text-white">
-        <p id="date" class="text-lg"></p>
-        <h1 id="title" class="text-4xl"></h1>
-        <p id="subtitle" class="text-lg"></p>
+        <div id="context" class="mb-20 text-lg">
+          <span id="date"></span>
+          <span id="title"></span>
+        </div>
+        <h1 id="subtitle"></h1>
       </div>
     </div>
     <script type="module" src="/main.js"></script>
