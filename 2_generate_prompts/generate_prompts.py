@@ -3,6 +3,7 @@
 import csv
 from datetime import datetime
 import os
+import sys
 from openai import OpenAI
 from tqdm import tqdm
 
@@ -118,8 +119,8 @@ with open(output_file_path, "w") as output_csv:
         date = row[0]
         theme = row[1]
 
-        # Check if the prompt for this theme already exists
-        if date in existing_prompts_by_date:
+        # Check if the prompt for this theme already exists or passed as argument
+        if date in existing_prompts_by_date and date not in sys.argv[1:]:
             theme, image_prompt, caption = existing_prompts_by_date[date]
         else:
             # Generate new prompt if it doesn't exist

@@ -53,7 +53,7 @@ args = parse_args()
 with open(csv_file_path, 'r') as csvfile:
     csv_reader = csv.DictReader(csvfile)
     rows = list(csv_reader)
-    
+        
     # Filter rows based on the date if specified
     if args.filter_date:
         rows = [row for row in rows if args.filter_date in row['Date']]
