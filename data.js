@@ -729,7 +729,7 @@ const lolcats = {
   ],
   "2025-03-31": [
     "International Transgender Day of Visibility",
-    "\u201cI can haz visibility, pwease? \ud83c\udf89\ud83c\udf08\u201d"
+    "We see you ♥︎"
   ],
   "2025-04-01": [
     "April Fools' Day",

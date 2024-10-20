@@ -32,5 +32,28 @@ function updateContent() {
     }
 }
 
+function changeDate(direction) {
+    const currentDate = new Date(today);
+    currentDate.setDate(currentDate.getDate() + direction);
+    let newDate = currentDate.toISOString().split("T")[0];
+    if (newDate == today) { // TZ hour change or something?
+        currentDate.setDate(currentDate.getDate() + direction);
+        newDate = currentDate.toISOString().split("T")[0];
+    }
+
+    if (lolcats[newDate]) {
+        window.history.pushState({}, "", `?${newDate}`);
+        updateContent();
+    }
+}
+
+document.addEventListener("keydown", (event) => {
+    if (event.key === "ArrowLeft") {
+        changeDate(-1);
+    } else if (event.key === "ArrowRight") {
+        changeDate(1);
+    }
+});
+
 updateContent();
 setInterval(updateContent, 60000);
