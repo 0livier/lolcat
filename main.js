@@ -47,6 +47,14 @@ function changeDate(direction) {
     }
 }
 
+function checkMidnightUpdate() {
+    const now = new Date();
+    if (now.getHours() === 0 && now.getMinutes() === 0) {
+        window.history.pushState({}, "", `?${new Date().toISOString().split("T")[0]}`);
+        updateContent();
+    }
+}
+
 document.addEventListener("keydown", (event) => {
     if (event.key === "ArrowLeft") {
         changeDate(-1);
@@ -56,4 +64,4 @@ document.addEventListener("keydown", (event) => {
 });
 
 updateContent();
-setInterval(updateContent, 60000);
+setInterval(checkMidnightUpdate, 60000); // Check every minute
