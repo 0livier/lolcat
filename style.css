@@ -53,11 +53,8 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #eee;
   text-shadow: 
-    -1px -1px 0 rgb(255, 255, 255, 0.8),
-    1px -1px 0 rgba(255, 255, 255, 0.5),
-    -1px 1px 0 rgba(161, 161, 161, 0.5),
-    1px 1px 0 rgba(82, 82, 82, 0.8),
-    2px 2px 4px rgba(0, 0, 0, 0.85);
+  1px 1px 0 rgba(137, 137, 137, 0.8),
+  2px 2px 4px rgba(0, 0, 0, 0.85);
 }
 
 #context {
