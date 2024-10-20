@@ -12,54 +12,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-#date {
-  padding-right: 20px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 400;
-  color: #ffffff65;
-  margin-bottom: 5px;
-}
-
-#subtitle {
-  font-weight: 800;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.85);
-}
-
-#context {
-  font-weight: 500;
-  margin-bottom: 20px;
-}
-
-#lulz {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2));
-  padding: 10px;
-}
-
-a {
-  color: #dcebfa;
-  text-decoration: underline;
-  color: transparent;
-  background: linear-gradient(180deg, #ffffff, #efefef, #bababadf);
-  background-clip: text;
-  -webkit-background-clip: text;
-}
-
-a:hover {
-  color: #f3f3ff;
-}
-h1:hover {
-  text-shadow: 
-      0 1px 5px rgba(255, 255, 255, 0.5),
-      0 5px 15px rgba(255, 255, 255, 0.3),
-      0 10px 30px rgba(255, 255, 255, 0.2),
-      0 20px 50px rgba(255, 255, 255, 0.1);
-}
 
 body {
   margin: 0;
-  display: flex;
-  place-items: top;
   text-align: center;
   min-width: 320px;
   min-height: 100vh;
@@ -74,4 +29,60 @@ body {
   top: 0;
   left: 0;
   z-index: -1; /* Puts the background behind the other content */
+}
+
+#lulz {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2));
+  padding: 20px;
+}
+
+#date, #home {
+  padding-right: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+  color: #ffffff65;
+  margin-bottom: 5px;
+}
+
+#home a {
+  color: #ffffff65;
+}
+
+#subtitle {
+  font-weight: 800;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #eee;
+  text-shadow: 
+    -1px -1px 0 rgb(255, 255, 255, 0.8),
+    1px -1px 0 rgba(255, 255, 255, 0.5),
+    -1px 1px 0 rgba(161, 161, 161, 0.5),
+    1px 1px 0 rgba(82, 82, 82, 0.8),
+    2px 2px 4px rgba(0, 0, 0, 0.85);
+}
+
+#context {
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+#title a {
+  color: #f3f3ff;
+  text-decoration: underline;
+  color: transparent;
+  background: linear-gradient(180deg, #ffffff, #efefef, #bababadf);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+#title a {
+    color: #f3f3ff;
+}
+
+a:hover {
+  color: #f3f3ff;
+  text-shadow: 
+      0 1px 5px rgba(255, 255, 255, 0.5),
+      0 5px 15px rgba(255, 255, 255, 0.3),
+      0 10px 30px rgba(255, 255, 255, 0.2),
+      0 20px 50px rgba(255, 255, 255, 0.1);
 }
