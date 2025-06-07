@@ -74,6 +74,13 @@ function updateContent(force = false) {
     helloCurious.textContent = "🗓️ " + formatDate(today);
     background.style.backgroundImage = `url(/lulz/${date}.webp)`;
 
+    const langButton = document.getElementById("toggle-catalan");
+    if (langButton) {
+      langButton.innerText = isCatalan ? "🌐 English?" : "🌐 Català?";
+      langButton.setAttribute("aria-label", isCatalan ? "Canvia a l'anglès" : "Switch to Catalan");
+      langButton.setAttribute("title", isCatalan ? "Canvia a l'anglès" : "Switch to Catalan");
+    }
+
     // Preload adjacent images
     preloadAdjacentImages(date);
   }
