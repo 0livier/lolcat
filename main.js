@@ -15,8 +15,8 @@ let touchEndX = 0;
 
 // Add toggle button functionality
 document.getElementById("toggle-catalan").addEventListener("click", () => {
-    isCatalan = !isCatalan;
-    updateContent(true);
+  isCatalan = !isCatalan;
+  updateContent(true);
 });
 
 function getDateFromURL() {
@@ -37,6 +37,26 @@ function formatDate(dateStr) {
   return dateStr;
 }
 
+function preloadImage(date) {
+  const img = new Image();
+  img.src = `/lulz/${date}.webp`;
+}
+
+function preloadAdjacentImages(currentDate) {
+  const allDates = Object.keys(lolcats).sort();
+  const currentIndex = allDates.indexOf(currentDate);
+
+  // Preload next image
+  if (currentIndex < allDates.length - 1) {
+    preloadImage(allDates[currentIndex + 1]);
+  }
+
+  // Preload previous image
+  if (currentIndex > 0) {
+    preloadImage(allDates[currentIndex - 1]);
+  }
+}
+
 function updateContent(force = false) {
   const urlDate = getDateFromURL();
   let date = urlDate || new Date().toISOString().split("T")[0];
@@ -53,6 +73,9 @@ function updateContent(force = false) {
     subtitle.textContent = content[isCatalan ? 6 : 5];
     helloCurious.textContent = "🗓️ " + formatDate(today);
     background.style.backgroundImage = `url(/lulz/${date}.webp)`;
+
+    // Preload adjacent images
+    preloadAdjacentImages(date);
   }
 }
 
