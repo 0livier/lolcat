@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+4_clean_data/cache
 .envrc
 # Logs
 logs

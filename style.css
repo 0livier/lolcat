@@ -31,9 +31,27 @@ body {
   z-index: -1; /* Puts the background behind the other content */
 }
 
-#lulz {
+#lulz, #context {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2));
   padding: 20px;
+}
+
+#toggle-catalan {
+  position: fixed;
+  top: 5px;
+  right: 5px;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2));
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+  cursor: pointer;
+  padding: 5px;
+}
+
+#lulz {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
 
 #date, #home {
@@ -43,6 +61,14 @@ body {
   color: #ffffff65;
   margin-bottom: 5px;
 }
+
+#explanation {
+  padding-top: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+}
+
 
 #home a {
   color: #ffffff65;
@@ -83,3 +109,4 @@ a:hover {
       0 10px 30px rgba(255, 255, 255, 0.2),
       0 20px 50px rgba(255, 255, 255, 0.1);
 }
+

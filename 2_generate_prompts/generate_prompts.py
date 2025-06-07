@@ -4,44 +4,35 @@ import csv
 from datetime import datetime
 import os
 import sys
-from openai import OpenAI
+import openai
 from tqdm import tqdm
 
-prompt = """You need to create a prompt to generate a lolcat image with the characteristics below. That prompt must be in the style of TOK lomography fisheye AND be linked to the theme [context].
+prompt = """You need to create a prompt to generate a lolcat image with the characteristics below. The image prompt must be linked to the theme: [context].
 
-# Engaging Cat Image:
-A high-quality photo of a cat with an expressive facial expression that reflects the context (e.g., surprise for a birthday, curiosity for a new object).
-The cat is in a unique or humorous situation related to the context (e.g., wearing a tiny Santa hat for Christmas).
+# Image Prompt (1-2 sentences):
+Describe the scene with vivid style. Keep it funny, playful, and cat-centered. The cat must reflect the context with its posture, costume, or environment. Avoid cluttered scenes and too many elements. Prompt should include 'In the style of lomography fisheye with vivid colors'
 
-# Clever Caption in Lolspeak:
-A humorous caption written in lolspeak, using intentional misspellings and internet slang.
-The caption anthropomorphizes the cat's thoughtsęor words related to the context (e.g., "I can haz pumpkin pie?" for Thanksgiving).
-The text directly relates to the image and enhances the overall joke.
+# Caption in Lolspeak inspired from English:
+Write a humorous caption in lolspeak. It must feel like the cat is speaking. It should relate to the theme and the scene. Be clever, use internet meme tone, and keep it concise (max 15 words).
 
-# Emotional Connection:
-The caption reflects a common human experience or emotion associated with the context.
-Includes a surprise element or punchline to make it memorable.
+# Caption in Lolspeak inspired from Catalan:
+Write a humorous caption in Catalan but with strong lolspeak influence. It must feel like the cat is speaking. It should relate to the theme and the scene. Be clever, use internet meme tone, and keep it concise (max 15 words).
 
-# Visual Presentation:
-Maintains the traditional lolcat aesthetic for instant recognition.
+# Emotional Layer:
+The image and caption should reflect a human emotion or situation in a funny way: e.g. embarrassment, pride, jealousy, confusion, etc.
 
-# Originality and Creativity:
-Incorporates unique ideas or a fresh take on the context.
-May include timely cultural references or popular trends relevant to the context.
+# Cultural Reference:
+If relevant, include a tasteful pop culture or seasonal reference that makes the scene unique.
 
-# Simplicity:
-Keeps the prompt concise and straightforward.
-Keeps the image in the style of TOK lomography fisheye.
-Keeps the without too many entity / different elements.
-Keeps the caption concise and straightforward.
-Focuses on delivering humor without overcomplicating the message.
+# Example (Theme: Halloween):
+**Prompt:** Cat tangled in Halloween string lights, wide-angle lomography lens look, startled face, jack-o-lanterns nearby. In the style of lomography fisheye with vivid colors
+**Caption:** Halp! I tangled in da spoopiez!
+**Catalan Caption:** Ajudaaaa! M'he enredat amb els espantijòs!
 
------
-
-Example of response with the theme "Halloween":
-
-**Prompt:** Cat tangled in Halloween decorations, puzzled expression, traditional lolcat style. distant perspective. Very wide shot
-**Caption:** Halp! I stuck in da spookiez!
+Return only:
+**Prompt:** ...  
+**Caption:** ...
+**Catalan Caption:** ...
 """
 
 
@@ -49,56 +40,67 @@ def update_prompt(theme):
     return prompt.replace("[context]", theme)
 
 
-def generate_prompt(client, theme):
+def generate_prompt(theme):
     updated_prompt = update_prompt(theme)
-    response = client.chat.completions.create(
-        model="gpt-4o",
+    response = openai.ChatCompletion.create(
+        model="gpt-4-turbo",
+        max_tokens=1000,
+        temperature=0.9,
         messages=[
             {
                 "role": "system",
-                "content": "You are a creative assistant that generates lolcat image prompts.",
+                "content": "You are a creative assistant that generates funny and imaginative prompts for lolcat-style images.",
             },
             {"role": "user", "content": updated_prompt},
         ],
     )
 
     generated_prompt = response.choices[0].message.content.strip()
-    prompt_parts = generated_prompt.split("**Caption:**")
-    if len(prompt_parts) == 2:
-        image_prompt = prompt_parts[0].replace("**Prompt:**", "").strip()
-        caption = prompt_parts[1].strip()
-    else:
-        print(f"Error splitting the generated prompt: {generated_prompt}")
-        image_prompt = generated_prompt
-        caption = ""
 
+    # Split the response into its components
+    parts = generated_prompt.split("**")
+    image_prompt = ""
+    caption = ""
+    catalan_caption = ""
+
+    for i in range(len(parts)):
+        if parts[i].strip() == "Prompt:":
+            image_prompt = parts[i + 1].strip()
+        elif parts[i].strip() == "Caption:":
+            caption = parts[i + 1].strip()
+        elif parts[i].strip() == "Catalan Caption:":
+            catalan_caption = parts[i + 1].strip()
+
+    # Clean up the text
     image_prompt = image_prompt.replace("\n", " ").strip()
     caption = caption.replace("\n", " ").strip()
+    catalan_caption = catalan_caption.replace("\n", " ").strip()
 
-    return image_prompt, caption
+    return image_prompt, caption, catalan_caption
 
 
 def load_existing_prompts_by_date(file_path):
     existing_prompts = {}
     if os.path.exists(file_path):
-        with open(file_path, 'r') as csvfile:
+        with open(file_path, "r") as csvfile:
             csvreader = csv.reader(csvfile)
-            next(csvreader)  # Skip header
+            try:
+                next(csvreader)  # Skip header
+            except StopIteration:
+                pass
             for row in csvreader:
                 if len(row) >= 4:
                     existing_prompts[row[0]] = (row[1], row[2], row[3])
     return existing_prompts
 
 
-client = OpenAI(
-    api_key=os.environ.get("OPENAI_API_KEY"),
-)
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 output_file_path = os.path.join(
-    current_dir, "..", "3_generate_images", "input", "themes_and_captions.csv"
+    current_dir, "..", "3_generate_images", "input", "prompts_and_captions.csv"
 )
-input_file_path = os.path.join(current_dir, "themes.csv")
+input_file_path = os.path.join(current_dir, "themes_input.csv")
 
 os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
@@ -107,13 +109,13 @@ existing_prompts_by_date = load_existing_prompts_by_date(output_file_path)
 
 # Read all themes from the input file
 with open(input_file_path, "r") as csvfile:
-    csvreader = csv.reader(csvfile, delimiter="\t")
+    csvreader = csv.reader(csvfile, delimiter=",")
+    next(csvreader)  # Skip first line
     all_themes = list(csvreader)
-
 with open(output_file_path, "w") as output_csv:
     csv_writer = csv.writer(output_csv)
-    csv_writer.writerow(['Date', 'Theme', 'Image Prompt', 'Caption'])
-    
+    csv_writer.writerow(["Date", "Prompt", "Caption", "CatalanCaption"])
+
     # Use tqdm to show progress
     for row in tqdm(all_themes, desc="Generating prompts", unit="theme"):
         date = row[0]
@@ -121,10 +123,12 @@ with open(output_file_path, "w") as output_csv:
 
         # Check if the prompt for this theme already exists or passed as argument
         if date in existing_prompts_by_date and date not in sys.argv[1:]:
-            theme, image_prompt, caption = existing_prompts_by_date[date]
+            theme, image_prompt, caption, catalan_caption = existing_prompts_by_date[
+                date
+            ]
         else:
             # Generate new prompt if it doesn't exist
-            image_prompt, caption = generate_prompt(client, theme)
+            image_prompt, caption, catalan_caption = generate_prompt(theme)
 
-        # Write the result to the output CSV
-        csv_writer.writerow([date, theme, image_prompt, caption])
+        csv_writer.writerow([date, image_prompt, caption, catalan_caption])
+        output_csv.flush()  # Flush writes

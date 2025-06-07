@@ -10,32 +10,29 @@ from tqdm import tqdm
 import argparse
 
 def generate_image(prompt, output_filename, format="webp", force=False):
-    output_dir = os.path.join(os.path.dirname(__file__), "..", "public", "lulz")
-    os.makedirs(output_dir, exist_ok=True)
-    output_path = os.path.join(output_dir, output_filename)
-    
     if os.path.exists(output_path) and not force:
         print(f"Skipping existing image: {output_filename}")
         return
 
-    output = replicate.run(
-        "levelsio/lomography:3e4d07d16e49be22c9158b6e4864d54c3fb6f676353d49c26c0646771703ddd5",
-        input={
-            "model": "dev",
-            "prompt": prompt,
-            "lora_scale": 1,
-            "num_outputs": 1,
-            "aspect_ratio": "16:9",
-            "output_format": format,
-            "guidance_scale": 3.54,
-            "output_quality": 80,
-            "prompt_strength": 0.8,
-            "extra_lora_scale": 1,
-            "num_inference_steps": 28,
-        },
-    )
+    input={
+        "prompt": prompt,
+        "aspect_ratio": "16:9",
+        "output_format": "webp",
+        "output_quality": 80,
+        "safety_tolerance": 2,
+        "prompt_upsampling": True
+    }
 
-    urlretrieve(output[0].url, output_path)
+    try:
+        output = replicate.run(
+            "black-forest-labs/flux-1.1-pro",
+            input
+        )
+        urlretrieve(output.url, output_path)
+    except Exception as e:
+        print(f"Error generating image: {e}")
+        print(f"Prompt: {prompt}")
+        return
 
 # Add this function to parse command-line arguments
 def parse_args():
@@ -45,10 +42,14 @@ def parse_args():
     parser.add_argument("--force", action="store_true", help="Force regeneration of existing images")
     return parser.parse_args()
 
-csv_file_path = os.path.join(os.path.dirname(__file__), "input", "themes_and_captions.csv")
+csv_file_path = os.path.join(os.path.dirname(__file__), "input", "prompts_and_captions.csv")
 
 # Add this line to parse arguments
 args = parse_args()
+
+output_dir = os.path.join(os.path.dirname(__file__), "..", "public", "lulz")
+os.makedirs(output_dir, exist_ok=True)
+
 
 with open(csv_file_path, 'r') as csvfile:
     csv_reader = csv.DictReader(csvfile)
@@ -62,4 +63,5 @@ with open(csv_file_path, 'r') as csvfile:
     
     for row in tqdm(rows_to_process, desc="Generating images", unit="image"):
         output_filename = f"{row['Date']}.webp"
-        generate_image(row['Image Prompt'], output_filename, force=args.force)
+        output_path = os.path.join(output_dir, output_filename)
+        generate_image(row['Prompt'], output_filename, force=args.force)
