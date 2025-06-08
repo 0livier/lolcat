@@ -175,5 +175,15 @@ document.addEventListener("keydown", (event) => {
   }
 });
 
+
 updateContent();
 setInterval(checkMidnightUpdate, 60000); // Check every minute
+
+// Add navigation button listeners
+document.getElementById("previous-day")?.addEventListener("click", () => {
+  navigateDate(-1);
+});
+
+document.getElementById("next-day")?.addEventListener("click", () => {
+  navigateDate(1);
+});

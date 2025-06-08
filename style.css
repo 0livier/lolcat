@@ -112,3 +112,42 @@ a:hover {
       0 20px 50px rgba(255, 255, 255, 0.1);
 }
 
+
+
+#previous-day,
+#next-day {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.8);
+  border: none;
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  z-index: 1000;
+  border-radius: 6px;
+}
+
+#previous-day,
+#next-day {
+  background: rgba(0, 0, 0, 0.1);
+  border: 0;
+  color: #0006;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+#previous-day:hover,
+#next-day:hover {
+  border: 0;
+}
+
+#previous-day {
+  left: 10px;
+}
+
+#next-day {
+  right: 10px;
+}
